@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": {
+            "a": "Berlin",
+            "b": "London",
+            "c": "Madrid",
+            "d": "Paris"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+            "a": "Earth",
+            "b": "Mars",
+            "c": "Jupiter",
+            "d": "Saturn"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question": "how old is maaz",
+        "options": {
+            "a": "15",
+            "b": "16",
+            "c": "17",
+            "d": "18"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question": "Maaz phone",
+        "options": {
+            "a": "pixel",
+            "b": "sam",
+            "c": "win",
+            "d": "rog"
+        },
+        "correct_answer": "a"
+    }
+]
