@@ -22,20 +22,20 @@
     {
         "question": "how old is maaz",
         "options": {
-            "a": "15",
-            "b": "16",
-            "c": "17",
-            "d": "18"
+            "a": "28",
+            "b": "48",
+            "c": "88",
+            "d": "98"
         },
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "Maaz phone",
         "options": {
             "a": "pixel",
-            "b": "sam",
-            "c": "win",
-            "d": "rog"
+            "b": "samsung",
+            "c": "window",
+            "d": "apple"
         },
         "correct_answer": "a"
     }
